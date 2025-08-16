@@ -31,7 +31,7 @@ show_banner() {
     echo -e "${NC}"
     echo -e "${CYAN}═══════════════════════════════════════════════${NC}"
     echo -e "${WHITE}    Advanced Nmap Command Builder Tool${NC}"
-    echo -e "${YELLOW}           Version 1.3${NC}"
+    echo -e "${YELLOW}           Version 1.0${NC}"
     echo -e "${GREEN}         By Ahmad Kamal${NC}"
     echo -e "${CYAN}═══════════════════════════════════════════════${NC}"
     echo -e "${PURPLE}[!] For Educational and Authorized Testing Only${NC}"
@@ -2601,7 +2601,7 @@ show_version() {
     echo -e "${CYAN}═══════════════════════════════════════${NC}"
     echo
     echo -e "${WHITE}VADER - Advanced Nmap Command Builder${NC}"
-    echo -e "${GREEN}Version: 1.3${NC}"
+    echo -e "${GREEN}Version: 1.0${NC}"
     echo -e "${BLUE}Author: Ahmad Kamal${NC}"
     echo -e "${YELLOW}License: Educational Use Only${NC}"
     echo
